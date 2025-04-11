@@ -1,4 +1,4 @@
-# Student-Mental-Health-
+# Student-Mental-Health
  Analyzing Student Mental Health with Data
 Mental health challenges are significant for international students adapting to new environments. In my recent project, I used PostgreSQL to analyze data from a Japanese university, exploring how social connectedness and acculturative stress impact depression levels.
 # Analysis
